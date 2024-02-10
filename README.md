@@ -1,0 +1,1 @@
+Reload UI dialog for WoW arenas.

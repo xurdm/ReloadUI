@@ -1,0 +1,6 @@
+## Interface: 100205
+## Title: Reload Dialog
+## Author: gracioussatan
+## Version: 1.0
+
+ReloadUI.lua
